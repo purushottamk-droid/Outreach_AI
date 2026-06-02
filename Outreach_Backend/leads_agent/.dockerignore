@@ -1,0 +1,22 @@
+# Auth & credentials - NEVER ship these
+auth/
+*.json
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Git
+.git
+.gitignore
+
+# Local run scripts
+local_run.py
+
+# Misc
+*.log
+.DS_Store
