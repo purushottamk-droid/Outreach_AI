@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "atgeir-moae-dev"
+  },
+  "targets": {
+    "atgeir-moae-dev": {
+      "hosting": {
+        "outreach": [
+          "atgeir-outreach-ai"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
